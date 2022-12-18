@@ -12,7 +12,7 @@ function App() {
     };
   });
 
-  const limit = 6;
+  const limit = 10;
   const offset = page * limit;
 
   return (
